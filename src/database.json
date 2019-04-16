@@ -71,6 +71,10 @@
     "url": "https://raw.githubusercontent.com/syumai/dejs/${b}/",
     "repo": "https://github.com/syumai/dejs"
   },
+  "dirname": {
+    "url": "https://raw.githubusercontent.com/rsp/deno-dirname/${b}/",
+    "repo": "https://github.com/rsp/deno-dirname"
+  },
   "dotenv": {
     "url": "https://raw.githubusercontent.com/pietvanzoen/deno-dotenv/${b}/",
     "repo": "https://github.com/pietvanzoen/deno-dotenv"
